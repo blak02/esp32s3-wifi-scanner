@@ -73,3 +73,6 @@ Nr   SSID                             RSSI   CH   Encrypt
 ## Notes
 
 The generated `build/` directory and local VS Code configuration are intentionally excluded from version control. They can be recreated by ESP-IDF on any configured development machine.
+#Author 
+Kemal Berkay Lak
+Wrocław University of Science and Technology, Electronics and Computer Engineering
